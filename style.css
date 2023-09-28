@@ -1,0 +1,10 @@
+.image {
+    background-image: url(https://madhalloween.com/wp-content/uploads/2020/10/Spooky-Blue-Moon-On-Halloween-2020-scaled.jpg);
+    object-fit: cover;
+    background-position: top;
+
+}
+
+border {
+    border-color: yellow;
+}
